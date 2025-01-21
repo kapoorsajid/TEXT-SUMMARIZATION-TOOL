@@ -52,3 +52,6 @@ Context Preservation: Maintaining the context and nuance of the original text ca
 NEW YORK MAGAZINE
 
 Over-Reliance: Dependence on summaries may lead to a superficial understanding of the material. It's crucial to engage with full texts when a deep comprehension is required, as summaries might not capture all subtleties. 
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/a29e3e99-e1bd-44bf-9a9d-2db26dd47100)
